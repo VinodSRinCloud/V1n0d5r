@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Vinod SR
-## I'm a Husband, Father, Consultant, and Teacher!!
+## I'm a Husband, Father, Consultant, and a Teacher!!
 - 🌱 I’m currently learning on Cloud and DevOps
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Read a book a week! ;)
+- 🥅 2023 Goals: Read a book a week! ;)
 - ⚡ Fun fact: I love to draw and play Cricket
 
 ### Connect with me:
