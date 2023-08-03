@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Vinod SR
-## I'm a Consultant,Teacher and a lifelong Learner!!
+## I'm a Consultant, Teacher and lifelong Learner!!
 - 🌱 I’m currently learning on Cloud and DevOps
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Read a book a week! ;)
