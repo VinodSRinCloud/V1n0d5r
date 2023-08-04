@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning on Cloud and DevOps
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Read a book a week! ;)
-- ⚡ Fun fact: I love to draw and play Cricket
 
 ### Connect with me:
 [<img align="left" alt="Vinod SR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
